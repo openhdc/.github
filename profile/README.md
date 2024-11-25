@@ -1,3 +1,3 @@
 ## Welcome to OpenHDC 🙌
 
-🧙 Everything is currently `under construction`.
+🧙 Everything is currently under construction.
